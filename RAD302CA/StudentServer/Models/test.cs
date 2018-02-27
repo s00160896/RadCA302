@@ -7,5 +7,6 @@ namespace StudentServer.Models
 {
     public class test
     {
+        int name = 5; 
     }
 }
